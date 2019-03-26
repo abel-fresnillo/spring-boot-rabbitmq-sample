@@ -41,11 +41,7 @@ To run the project execute the following command:
 mvn spring-boot:run
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+The application will run and insert a new document in MongoDB.
 
 ## Built With
 
