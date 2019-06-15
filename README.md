@@ -49,4 +49,4 @@ The application will run and insert a new document in MongoDB.
 
 ## Authors
 
-* **Abel Fresnillo** - [iscabel](https://github.com/iscabel)
+* **Abel Fresnillo** - [abel-fresnillo](https://github.com/abel-fresnillo)
